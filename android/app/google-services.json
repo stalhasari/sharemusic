@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672868699178",
+    "project_id": "share-music-cf2b6",
+    "storage_bucket": "share-music-cf2b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672868699178:android:7a6bf9d826dc1995dc8753",
+        "android_client_info": {
+          "package_name": "com.example.sharemusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm7M9Uvh4yZ8u0L_t09LtCaa2QIuPwmSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
